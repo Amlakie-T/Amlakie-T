@@ -22,6 +22,11 @@ I’m looking to collaborate on open-source projects related to:
 
 ### 🤔 I’m looking for help with ...
 
+🛠️ **Advanced Android Features**: Seeking guidance on implementing cutting-edge features such as AR integration, advanced animations, and performance optimization in Android apps.
+
+🔍 **Penetration Testing**: Looking for expertise in performing thorough and effective penetration tests to identify vulnerabilities and strengthen the security of applications and systems.
+
+🌐 **Web Development Best Practices**: Eager to learn about the latest best practices in web development, including efficient coding techniques, SEO optimization, and responsive design strategies.
 
 
 ### 💬 Ask me about ...
