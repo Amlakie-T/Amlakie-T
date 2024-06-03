@@ -1,6 +1,6 @@
 <!-- Dynamic README with Responsive, Animated, and Dual-Themed features -->
 
-## Hi there 👋
+## Hi there 👋 I'm Amlakie Tadesse, a skilled Android and Web developer, and a Cybersecurity expert.....
 
 Welcome to my GitHub profile! I'm Amlakie Tadesse, a skilled Android and web developer, and a cybersecurity expert from Ethiopia.
 
