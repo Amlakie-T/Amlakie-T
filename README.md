@@ -1,8 +1,8 @@
 <!-- Dynamic README with Responsive, Animated, and Dual-Themed features -->
 
-## Hi there 👋 I'm Amlakie Tadesse, a skilled Android and Web developer, and a Cybersecurity expert.....
+## Hi there 👋
 
-Welcome to my GitHub profile! I'm Amlakie Tadesse, a skilled Android and web developer, and a cybersecurity expert from Ethiopia.
+Welcome to my GitHub profile! I'm **Amlakie Tadesse**, a skilled Android and web developer, and a cybersecurity expert from Ethiopia.
 
 ### 🔭 I’m currently working on ...
 
@@ -28,18 +28,16 @@ I’m looking to collaborate on open-source projects related to:
 
 🌐 **Web Development Best Practices**: Eager to learn about the latest best practices in web development, including efficient coding techniques, SEO optimization, and responsive design strategies.
 
-
 ### 💬 Ask me about ...
 
-Android development, Ceb development, Cybersecurity
+Android development, web development, cybersecurity
 
 ### 📫 How to reach me:
 
 You can reach out to me via:
 
 - Email: [amlakietad@gmail.com](mailto:amlakietad@gmail.com)
-- LinkedIn: [www.linkedin.com/in/amlakie]
-
+- LinkedIn: [www.linkedin.com/in/amlakie](https://www.linkedin.com/in/amlakie)
 
 ### 😄 Pronouns:
 
@@ -47,7 +45,7 @@ Code Ninja (he/him)
 
 ### ⚡ Fun fact:
 
-Coding
+Coding Kali Linux sometimes Hacking make it funny
 
 ---
 
