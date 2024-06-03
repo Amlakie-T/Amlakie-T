@@ -45,7 +45,7 @@ Code Ninja (he/him)
 
 ### ⚡ Fun fact:
 
-Coding Kali Linux sometimes Hacking make it funny
+Coding
 
 ---
 
