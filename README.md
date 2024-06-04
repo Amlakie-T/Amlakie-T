@@ -6,27 +6,30 @@
 
 <p>
 <div display="flex">
- <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="20"> Technologies and Frameworks I Used
+  <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="20"> Technologies and Frameworks I Used
 </div>
 <br>
 
-<p align="center">
-  <a href="">
-    <img src="https://ionicframework.com/img/meta/logo.png" alt="Ionic" width="40" height="40"/> 
-    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,docker,tailwind,bootstrap,css,firebase" />
-        <img src="https://skillicons.dev/icons?i=angular,react,figma,html,laravel,mysql,py,vite,symfony" />
+<div>
+  <h3>Web Development</h3>
+  <p align="center">
+    <a href="">
+      <img src="https://ionicframework.com/img/meta/logo.png" alt="Ionic" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,figma" />
+    </a>
+  </p>
+</div>
 
-
-  </a>
-</p>
-<br>
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=git,androidstudio,anaconda,tensorflow,vscode" />
-  </a>
-</p>
-<br>
-
+<div>
+  <h3>App Development</h3>
+  <p align="center">
+    <a href="">
+      <img src="https://ionicframework.com/img/meta/logo.png" alt="Ionic" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,docker,firebase" />
+      <img src="https://skillicons.dev/icons?i=angular,react,symfony,laravel,mysql,py,vite" />
+    </a>
+  </p>
+</div>
 <p align="center">Contact me on:</p>
 
 <p align="center">
