@@ -3,69 +3,21 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Amlakie+Skilled+Web+and+App+Developer;I'm+Cyber+Expert;&center=true&width=500&height=50"></a>
 </p>
-<div class="technologies">
-  <h2>Technologies and Frameworks I Used</h2>
-
-  <div class="sections">
-    <div class="section">
-      <h3>Web Development</h3>
-      <p align="center">
-        <a href="">
-          <img src="https://ionicframework.com/img/meta/logo.png" alt="Ionic" width="40" height="40"/>
-          <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,figma" />
-        </a>
-      </p>
-    </div>
-
-    <div class="section">
-      <h3>App Development</h3>
-      <p align="center">
-        <a href="">
-          <img src="https://ionicframework.com/img/meta/logo.png" alt="Ionic" width="40" height="40"/>
-          <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,angular,firebase,laravel,symfony,docker,vite,py,mysql" />
-        </a>
-      </p>
-    </div>
-
-    <div class="section">
-      <h3>Cyber Security</h3>
-      <p align="center">
-        <a href="">
-          <img src="https://www.kali.org/files/doc/offensive-security/kali-linux-logo.png" alt="Kali Linux" width="40" height="40"/>
-          </a>
-      </p>
-    </div>
-  </div>
+p>
+<div display="flex">
+ <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="20"> Technologies and Frameworks I Used
 </div>
+<br>
 
-<style>
-.technologies {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 2rem 0;
-}
+<p align="center">
+  <a href="">
+    <img src="https://ionicframework.com/img/meta/logo.png" alt="Ionic" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,docker,tailwind,bootstrap,css,firebase" />
+        <img src="https://skillicons.dev/icons?i=angular,react,figma,html,laravel,mysql,py,vite,symfony" />
 
-.sections {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  width: 100%;
-}
 
-.section {
-  margin: 1rem;
-  text-align: center;
-}
-
-.section h3 {
-  margin-bottom: 0.5rem;
-}
-
-.section img {
-  margin: 0 0.5rem;
-}
-</style>
+  </a>
+</p>
 
 <p align="center">Contact me on:</p>
 
