@@ -4,32 +4,43 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Amlakie+Skilled+Web+and+App+Developer;I'm+Cyber+Expert;&center=true&width=500&height=50"></a>
 </p>
 
-<p>
-<div display="flex">
-  <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="20"> Technologies and Frameworks I Used
-</div>
-<br>
+<div class="technologies">
+  <h2>Technologies and Frameworks I Used</h2>
 
-<div>
-  <h3>Web Development</h3>
-  <p align="center">
+  <div class="sections">
+    <h3>Web Development</h3>
     <a href="">
       <img src="https://ionicframework.com/img/meta/logo.png" alt="Ionic" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,figma" />
-    </a>
-  </p>
-</div>
+      <i class="iconify" data-icon="ic:outline-html5" data-inline="false"></i>
+      <i class="iconify" data-icon="ic:outline-css3" data-inline="false"></i>
+      <i class="iconify" data-icon="ic:outline-javascript" data-inline="false"></i>
+      <i class="iconify" data-icon="ic:outline-typescript" data-inline="false"></i>
+      </a>
+  </div>
 
-<div>
-  <h3>App Development</h3>
-  <p align="center">
+  <div class="sections">
+    <h3>App Development</h3>
     <a href="">
       <img src="https://ionicframework.com/img/meta/logo.png" alt="Ionic" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,docker,firebase" />
-      <img src="https://skillicons.dev/icons?i=angular,react,symfony,laravel,mysql,py,vite" />
-    </a>
-  </p>
+      <i class="iconify" data-icon="ionic:logo-android" data-inline="false"></i>
+      <i class="iconify" data-icon="ionic:logo-apple" data-inline="false"></i>
+      <i class="iconify" data-icon="ic:outline-react" data-inline="false"></i>
+      <i class="iconify" data-icon="ic:outline-angular" data-inline="false"></i>
+      </a>
+  </div>
+
+  <div class="sections">
+    <h3>Cyber Security</h3>
+    <a href="">
+      <img src="https://www.kali.org/assets/img/kali-logo.svg" alt="Kali Linux" width="40" height="40"/>
+      <i class="iconify" data-icon="mdi:linux" data-inline="false"></i>
+      <i class="iconify" data-icon="ic:outline-security" data-inline="false"></i>
+      </a>
+  </div>
 </div>
+
+<script src="https://cdn.jsdelivr.net/npm/iconify@latest/dist/iconify.min.js"></script>
+
 <p align="center">Contact me on:</p>
 
 <p align="center">
