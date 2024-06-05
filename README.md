@@ -14,6 +14,7 @@
     <img src="https://ionicframework.com/img/meta/logo.png" alt="Ionic" width="40" height="40"/> 
     <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,docker,tailwind,bootstrap,css,firebase" />
         <img src="https://skillicons.dev/icons?i=angular,react,figma,html,laravel,mysql,py,vite,symfony" />
+        <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,flutter,react" />
 
 
   </a>
