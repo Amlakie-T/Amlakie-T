@@ -30,7 +30,7 @@
 <br>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=kali" />
+    <img src="https://skillicons.dev/icons?i=kali,linux" />
   </a>
 </p>
 
