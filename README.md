@@ -22,7 +22,7 @@
 </p>
 
 
-<p align="center">Contact me on:</p>
+<p align="center">Follow me on:</p>
 
 <p align="center">
 
