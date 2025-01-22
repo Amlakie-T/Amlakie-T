@@ -44,7 +44,7 @@ Looking to bring your project to life?
 
 ### 📊 Technologies at a Glance:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,kotlinm" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java" />
   <img src="https://skillicons.dev/icons?i=js,react,vue,angular,css,tailwind,bootstrap" />
   <img src="https://skillicons.dev/icons?i=html,firebase,mysql,py" />
 </p>
