@@ -13,8 +13,8 @@
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,flutter,react" />
-    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,docker,tailwind,bootstrap,css,firebase" />
-        <img src="https://skillicons.dev/icons?i=angular,figma,html,laravel,mysql,py,vite,symfony" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,tailwind,bootstrap,css,firebase" />
+        <img src="https://skillicons.dev/icons?i=angular,html,mysql,py" />
         
 
 
