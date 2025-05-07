@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me:
 Hi there! I'm **Amlakie**, a passionate developer skilled in:
-- **Mobile App Development**: Expert in Kotlin, Kotlin Multi-Platform and Java.
+- **Mobile App Development**: Expert in Kotlin and Java.
 - **Web Development**: Skilled in JavaScript, React.js, Vue.js, CSS, and modern web frameworks.
 
 I love solving complex problems and delivering custom solutions tailored to meet specific needs.
